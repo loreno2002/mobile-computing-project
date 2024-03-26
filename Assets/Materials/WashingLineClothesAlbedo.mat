@@ -7,13 +7,12 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rubbish
-  m_Shader: {fileID: 4800000, guid: 0999d58022e15764c9c7f1db616452d4, type: 3}
-  m_Parent: {fileID: 2100000, guid: dda22a8f7e415d94c824641953dc38a8, type: 2}
+  m_Name: WashingLineClothesAlbedo
+  m_Shader: {fileID: 4800000, guid: 93d8fc18fdc65dd4aa903210d93f3343, type: 3}
+  m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
-  m_InvalidKeywords:
-  - _EMISSION
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -25,7 +24,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 6336c4a6c52726d4b8aa9810b8b76ef7, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9baf6e72cc9bd7b4293830149cc335fe, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
